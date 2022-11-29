@@ -47,6 +47,7 @@ Admin or Agent logs into osTicket. Selects: 'Tickets' > 'Open'. Admin now select
 
 <p>
 <img src="https://i.imgur.com/7l32Ki3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
 <img src="https://https://i.imgur.com/DQMfhEX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
