@@ -26,18 +26,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/2LwzW3q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/z5gVFhl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Customer creates a ticket for their issue. 
+Customer/User creates a ticket for their issue. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/naPqGfi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/L9ajdVl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Admin or Agent logs into osTicket. Selects: 'Tickets' > 'Open'. Admin now selects a Ticket that wants to be worked on. 
+Admin/Agent logs into osTicket. Selects: 'Tickets' > 'Open'. Admin/Agent now selects a Ticket that wants to be worked on. 
 </p>
 <br />
 
@@ -45,7 +45,7 @@ Admin or Agent logs into osTicket. Selects: 'Tickets' > 'Open'. Admin now select
 <img src="https://i.imgur.com/7l32Ki3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Admin or Agent views Ticket. Establishes Priority, Department, 'Assigned to', and SLA Plan. Agent or Admin then leaves a response so customer/user is aware that issue is acknowledged and in progress. 
+Admin/Agent views Ticket. Establishes Priority, Department, 'Assigned to', and SLA Plan. Agent/Admin then leaves a response so customer/user is aware that issue is acknowledged and in progress. 
 </p>
 <br />
 
