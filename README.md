@@ -6,10 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -47,9 +43,6 @@ Admin or Agent logs into osTicket. Selects: 'Tickets' > 'Open'. Admin now select
 
 <p>
 <img src="https://i.imgur.com/7l32Ki3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-<p>
-<img src="https://https://i.imgur.com/DQMfhEX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Admin or Agent views Ticket. Establishes Priority, Department, 'Assigned to', and SLA Plan. Agent or Admin then leaves a response so customer/user is aware that issue is acknowledged and in progress. 
@@ -57,4 +50,7 @@ Admin or Agent views Ticket. Establishes Priority, Department, 'Assigned to', an
 <br />
 
 <p>
-<img src="https://i.imgur.com/7l32Ki3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Y0SPoRg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Admin/Agent leaves a response once issue is resolved. Admin/Agent sets ticket as 'Resolved'. 
