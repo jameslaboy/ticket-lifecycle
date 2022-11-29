@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/z5gVFhl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Customer/User creates a ticket for their issue. 
+Customer/User opens a new ticket on osTicket. 
 </p>
 <br />
 
